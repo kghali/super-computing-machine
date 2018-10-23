@@ -1,5 +1,8 @@
-<style>
-  body {background-color: powderblue;}
-  h1 {color: red;}
-  p {color: blue;}
-</style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
